@@ -1,6 +1,11 @@
 ### Document Archive
 
 ---
+#### Resume 
+> Updated as of 18th July, 2021
+
+🔗 [Resume](https://github.com/adhikariravi/Documents/raw/master/Ravi%20Adhikari.pdf)
+
 #### Project Work on Object Detection and Tracking
 
 > Project work is a 3 credit worth of syllabus requirement under (CSC404) [Project Work]
