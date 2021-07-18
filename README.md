@@ -4,7 +4,8 @@
 #### Project Work on Object Detection and Tracking
 
 > Project work is a 3 credit worth of syllabus requirement under (CSC404) [Project Work]
-* [Object Detection and Tracking Using Histogram of Oriented Gradients (HOG) based Kalman Filter](https://github.com/adhikariravi/Documents/raw/master/Histogram%20of%20Oriented%20Gradients.pdf)
+
+🔗 [Object Detection and Tracking Using Histogram of Oriented Gradients (HOG) based Kalman Filter](https://github.com/adhikariravi/Documents/raw/master/Histogram%20of%20Oriented%20Gradients.pdf)
 
 #### Term Paper on SnapChat
 
