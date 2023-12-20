@@ -2,9 +2,9 @@
 
 ---
 #### Resume 
-> Updated as of 18th July, 2021
+> Updated as of 20th December, 2023
 
-🔗 [Resume](https://github.com/adhikariravi/Documents/raw/master/Ravi%20Adhikari.pdf)
+🔗 [Resume](https://github.com/adhikariravi/Documents/raw/master/RaviAdhikari_DataScientist.pdf)
 
 #### Project Work on Object Detection and Tracking
 
